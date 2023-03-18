@@ -7,10 +7,10 @@
 ### **Rock paper scissors** (also known by other orderings of the three items, with "rock" sometimes being called "stone," or as Rochambeau, roshambo, or ro-sham-bo)[1][2][3] is a hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
 
 ### These shapes are:
-![RCP](assets/g.png)
 - **"rock"** (a closed fist)
 - **"paper"** (a flat hand)
 - **"scissors"** (a fist with the index finger and middle finger extended, forming a V). 
+![RCP](assets/g.png)
 
 > The earliest form of "rock paper scissors"-style game originated in China and was subsequently imported into Japan, where it reached its modern standardized form, before being spread throughout the world in the early 20th century.
 
@@ -25,5 +25,5 @@
 
 ## Feel free to modify 
 
-
-created by @Viestar2023
+<m.silverbuckson@gmail.com>
+@Viestar2023
